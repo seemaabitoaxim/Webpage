@@ -1,0 +1,27 @@
+
+.hero {
+    background: url('./bg.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    width: 100%;
+    
+}
+
+.card-section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.card{
+    border-radius: 20px 0px 20px 0px ;  
+    border: 2px solid goldenrod;
+
+}
+
+
+h3{
+
+background: goldenrod;
+  
+}
